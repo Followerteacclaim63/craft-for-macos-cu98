@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Craft for macOS plugin with Craft for macOS smart Plugin - export to PDF and database templates. Featuring export to PDF and database templates, it's the best
 
 
 
